@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 MyBatis JPetStore
 =================
 
@@ -19,3 +20,7 @@ mvn clean tomcat7:run
 
 - Run application in browser http://localhost:8080/jpetstore/ 
 - Press Ctrl-C to stop the server.
+=======
+# jpetstore
+SCM Class for Git
+>>>>>>> 444163c8d1ed20ab502d139d8875276269d47884
